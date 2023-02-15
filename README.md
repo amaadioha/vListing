@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xanders-Lab
-- 👀 I’m interested in multicloud
-- 🌱 I’m currently learning Kubernetes the hard way
-- 💞️ I’m looking to collaborate on multicloud projects
+- 👀 I’m interested in multicloud and containers
+- 🌱 I learnt k8s the hard way
+- 💞️ I’m looking to collaborate on multicloud and container ochestration projects
 - 📫 How to reach me is dm
 
 <!---
